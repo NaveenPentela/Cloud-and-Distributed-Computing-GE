@@ -45,16 +45,25 @@ node-red-node-google
 
 # Requirements:
 (1) You Node-RED flow (application) must use at least three cloud API services.
+
 (2) The Node-RED flow must contain (be connected to) a web application within
+
 • the Google Cloud Platform or
+
 • the IBM cloud environment or
+
 • any other cloud services such as Microsoft or Amazon.
+
 (3) The web application provides a practical solution to business problems using Node-RED technology
 (node.js) and various cloud services, for example, IBM Watson.
+
 (4) Node-RED flow must have real business applicability and functionality.
+
 (5) Real business applicability and functionality must be supported by some evidence, for example,
 statistics or information supported by references.
+
 (6) The Node-RED flow must be more advanced than the flows you have generated in your laboratory
 exercises and it cannot be the same as the examples given above or your laboratory exercises.
+
 (7) The Node-RED flow must have at least three function nodes with JavaScript code.
 
