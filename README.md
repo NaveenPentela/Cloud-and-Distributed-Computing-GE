@@ -28,13 +28,18 @@ tutorials and examples provided below:
 
 • Watson’s Node-RED services basic examples https://github.com/watson-developer-cloud/node-red-labs/
 blob/master/basic_examples/README.md
+
 • Watson’s Node-RED advanced examples https://github.com/watson-developer-cloud/node-red-labs/
 tree/master/advanced_examples
+
 • Use Watson’s Natural Language Understanding to analyse news articles https://github.com/IBM/
 natural-language-understanding-node-red
+
 • Generating data for anomaly detection https://developer.ibm.com/tutorials/iot-deep-learning-anomaly-det?mhsrc=ibmsearch_a&mhq=deep%20learning%20%20red%20flow
+
 • Build a low-code chatbot and movie recommender solution using Watson Services and Node-RED
 https://developer.ibm.com/tutorials/build-a-low-code-chatbot-and-movie-recommender-solution-usin?mhsrc=ibmsearch_a&mhq=deep%20learning%20%20red%20flow
+
 • A set of Node-RED nodes to access various Google services https://flows.nodered.org/node/
 node-red-node-google
 
